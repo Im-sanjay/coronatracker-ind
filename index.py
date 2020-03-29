@@ -3,14 +3,9 @@ import numpy as np
 import pandas as pd
 
 
-from datetime import datetime
-import os
-import glob
 import requests 
 import pandas as pd
-from bs4 import BeautifulSoup
 
-import plotly.express as px
 
 import json
 
